@@ -1,0 +1,2 @@
+# Ignore all SQLite databases – this is a comment (starts with `#`; below, * is a wildcard)
+db/*.sqlite3
